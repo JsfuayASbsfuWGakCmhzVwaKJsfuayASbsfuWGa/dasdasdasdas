@@ -1,11 +1,12 @@
 local StarId = {
 	[244822919] = true,
 	[301371187] = true,
+	[3679350751] = true
 }
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 local StaffId = {
-	[3679350751] = true,
+	[1234567890] = true,
 }
 
 local AdminId = {
