@@ -192,7 +192,7 @@ function premium()
 		v.Chatted:connect(function(cht)
 			if cht:match("/e test") then
 				if game.Players.LocalPlayer ~= v then
-					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Im Using Lock!","All")
+					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Wow, This Script Is The BEST!","All")
 				end
 			end
 
