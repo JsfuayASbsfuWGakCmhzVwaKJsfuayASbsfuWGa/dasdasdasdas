@@ -12,12 +12,6 @@ for i = 1, #Blacklisted do
 	local user = Blacklisted[i]
 	if (user == LocalPlayer.Name) then
 		Blacklisted = true
-game.StarterGui:SetCore("SendNotification", {
-Title = "Con.txt";
-Text = "You're Blacklisted From Con.TXT!"
-Icon = "rbxassetid://10347659152"; -- the image if u want. 
-Duration = 5;
-})
 		break
 	end
 end
