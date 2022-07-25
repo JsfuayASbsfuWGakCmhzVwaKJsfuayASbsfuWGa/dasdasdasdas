@@ -1,4 +1,3 @@
-wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Con.TXT";
 Text = "Hope You Enjoy, Also No More FPS Drops!";
