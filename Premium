@@ -4,7 +4,7 @@ local function Blacklisted(UserID, Reason)
 	end
 end
 
-Blacklisted(2016972708, 2823362256 '')
+Blacklisted(2823362256, '')
 
 local StarId = {
 	[2201377041] = true,
