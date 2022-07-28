@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 Title = "Con.TXT";
-Text = "Hope You Enjoy, Also No More FPS Drops!";
+Text = "If You Use KRNL This Will Not Work, Try New KRNL.";
 Icon = "rbxassetid://10347659152";
 Duration = 3;
 })
