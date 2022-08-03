@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 Title = "Con.TXT";
-Text = "If You Use KRNL This Will Not Work, Try New KRNL.";
+Text = "If you have any bugs dont be afraid to DM Me on Discord..";
 Icon = "rbxassetid://10347659152";
 Duration = 3;
 })
